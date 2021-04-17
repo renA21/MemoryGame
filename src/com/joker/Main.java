@@ -9,7 +9,7 @@ public class Main {
     public static int highScore = 0;
 
     // Program version
-    public static final String version = "0.1 Alpha";
+    public static final String version = "1.0-rc1";
 
     // Create directories for the application
     public static final File dataDir = new File("memoryGameData/");
