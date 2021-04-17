@@ -202,9 +202,4 @@ public class MemoryBoard extends JFrame {
         frame.setVisible(true);
         MemoryGame.shuffleBoard();
     }
-
-    // Debug
-    public static void main(String[] args) {
-        memoryBoard();
-    }
 }
